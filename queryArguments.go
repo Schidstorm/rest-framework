@@ -1,4 +1,4 @@
-package rest_framework
+package restframework
 
 import (
 	"errors"

@@ -1,1 +1,1 @@
-package rest_framework
+package restframework
