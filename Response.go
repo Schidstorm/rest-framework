@@ -1,4 +1,4 @@
-package lib
+package rest_framework
 
 type Response struct {
 	Success      bool        `json:"success"`

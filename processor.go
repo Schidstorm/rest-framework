@@ -1,4 +1,4 @@
-package lib
+package rest_framework
 
 import "net/http"
 
